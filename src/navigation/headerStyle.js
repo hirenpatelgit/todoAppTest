@@ -1,0 +1,7 @@
+const headerStyle = {
+
+}
+
+export {
+    headerStyle
+}
